@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Marvin Ehab</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Biomedical+Engineering+Student;AI+%26+Software+Engineering+Enthusiast;Computer+Vision+%7C+Machine+Learning;Deep+Learning+%7C+Medical+Imaging" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Biomedical+Engineering+Student;AI+%7C+ML+%7C+DL+Enthusiast;Computer+Vision+%26+Medical+Imaging;Software+Engineering+%26+Intelligent+Systems" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2M0d2w2NnQ2d3RjZWl0dXNzOGNob3FqM3BjcGd4dGh6eTR0aDlxNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/coxQHKASG60HrHtvkt/giphy.gif" width="500"/>
+  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="500"/>
 </p>
 
 <h3 align="center">
@@ -59,16 +59,16 @@ Biomedical Engineering Student | AI & Software Engineering Enthusiast
 </p>
 
 ### AI & Machine Learning
-- TensorFlow
-- PyTorch
-- Image Segmentation
-- Model Evaluation
+- TensorFlow  
+- PyTorch  
+- Image Segmentation  
+- Model Evaluation  
 
 ### Data & Scientific Computing
-- NumPy
-- Pandas
-- Matplotlib
-- SciPy
+- NumPy  
+- Pandas  
+- Matplotlib  
+- SciPy  
 
 ---
 
