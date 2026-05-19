@@ -1,15 +1,20 @@
 <h1 align="center">Hi 👋, I'm Marvin Ehab</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Biomedical+Engineering+Student;AI+%7C+ML+%7C+DL+Enthusiast;Computer+Vision+%26+Medical+Imaging;Software+Engineering+%26+Intelligent+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Biomedical+%26+Systems+Engineering+Student;AI+%7C+Machine+Learning+%7C+Software+Engineering" />
 </p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="500"/>
 </p>
 
+<!-- Neural Network Animation -->
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Artificial_neural_network.svg/600px-Artificial_neural_network.svg.png" width="300" alt="Neural Network"/>
+</p>
+
 <h3 align="center">
-Biomedical Engineering Student | AI & Software Engineering Enthusiast
+  Biomedical Engineering Student | AI & Software Engineering Enthusiast
 </h3>
 
 ---
@@ -35,13 +40,9 @@ Biomedical Engineering Student | AI & Software Engineering Enthusiast
 ## 🚀 Featured Projects
 
 - 🩺 <a href="https://github.com/MarvinEhab/AI-Skin-Lesion-Classification">AI Skin Lesion Classification System</a>
-
 - 🌱 <a href="https://github.com/MarvinEhab/Smart-IoT-Neonatal-Incubator">Smart IoT Neonatal Incubator</a>
-
 - 🧠 <a href="https://github.com/MarvinEhab/MPR-viewer">Advanced DICOM MPR Viewer</a>
-
 - 🫀 <a href="https://github.com/MarvinEhab/medical-image-segmention">3D CT Organ Segmentation Pipeline</a>
-
 - 🥽 <a href="https://github.com/MarvinEhab/3D-medical-visualization">VR Medical Visualization</a>
 
 ---
@@ -50,7 +51,7 @@ Biomedical Engineering Student | AI & Software Engineering Enthusiast
 
 ### Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,java" />
+  <img src="https://skillicons.dev/icons?i=cpp,java" />
 </p>
 
 ### Frameworks & Tools
@@ -59,16 +60,16 @@ Biomedical Engineering Student | AI & Software Engineering Enthusiast
 </p>
 
 ### AI & Machine Learning
-- TensorFlow  
-- PyTorch  
-- Image Segmentation  
-- Model Evaluation  
+- TensorFlow
+- PyTorch
+- Image Segmentation
+- Model Evaluation
 
 ### Data & Scientific Computing
-- NumPy  
-- Pandas  
-- Matplotlib  
-- SciPy  
+- NumPy
+- Pandas
+- Matplotlib
+- SciPy
 
 ---
 
@@ -76,16 +77,7 @@ Biomedical Engineering Student | AI & Software Engineering Enthusiast
 
 - 🎓 GCI World 2026 — AI & Data Science Program  
   Selected participant in Matsuo Laboratory, The University of Tokyo
-
 - 🏅 3rd Place — TCCD Undergraduate Engineering Mathematics Research Day
-
----
-
-## ⚡ GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=MarvinEhab&theme=tokyonight&hide_border=true"/>
-</p>
 
 ---
 
