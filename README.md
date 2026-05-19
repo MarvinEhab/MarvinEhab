@@ -5,12 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="500"/>
-</p>
-
-<!-- Neural Network Animation -->
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Artificial_neural_network.svg/600px-Artificial_neural_network.svg.png" width="300" alt="Neural Network"/>
+  <img src="https://media.giphy.com/media/n6mEMqAuYOQ8l8qcEE/giphy.gif" width="500" alt="AI Neural Network"/>
 </p>
 
 <h3 align="center">
