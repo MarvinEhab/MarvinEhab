@@ -11,16 +11,30 @@ Biomedical Engineering Student | AI & Software Engineering Enthusiast
 - 🎓 Biomedical Engineering student at Cairo University
 - 🤖 Interested in AI, Computer Vision, and Software Engineering
 - 💻 Passionate about intelligent systems and machine learning
+
 ---
 
 ## 📫 Contact Me
 
 <p align="left">
-  📧 <a href="mailto:marvinehab1@gmail.com">marvin.ehab1@gmail.com</a><br>
+  📧 <a href="mailto:marvin.ehab1@gmail.com">marvin.ehab1@gmail.com</a><br>
   💼 <a href="https://www.linkedin.com/in/marvinehab">LinkedIn</a><br>
   🌐 <a href="https://github.com/MarvinEhab">GitHub</a>
 </p>
 
+---
+
+## 🚀 Featured Projects
+
+- 🩺 <a href="https://github.com/MarvinEhab/AI-Skin-Lesion-Classification">AI Skin Lesion Classification System</a>
+
+- 🫀 <a href="https://github.com/MarvinEhab/medical-image-segmention">3D CT Organ Segmentation Pipeline</a>
+
+- 🌱 <a href="https://github.com/MarvinEhab/Smart-IoT-Neonatal-Incubator">Smart IoT Neonatal Incubator</a>
+
+- 🧠 <a href="https://github.com/MarvinEhab/MPR-viewer">Advanced DICOM MPR Viewer</a>
+
+- 🥽 <a href="https://github.com/MarvinEhab/3D-medical-visualization">VR Medical Visualization</a>
 
 ---
 
@@ -36,11 +50,17 @@ Biomedical Engineering Student | AI & Software Engineering Enthusiast
   <img src="https://skillicons.dev/icons?i=flutter,unity,git,github,vscode,arduino" />
 </p>
 
-### AI & Data Science
+### AI & Machine Learning
 - TensorFlow
 - PyTorch
 - Image Segmentation
 - Model Evaluation
+
+### Data & Scientific Computing
+- NumPy
+- Pandas
+- Matplotlib
+- SciPy
 
 ---
 
